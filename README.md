@@ -8,7 +8,7 @@ Searching for flights on Skyscanner it's an easy task if certain about origin, d
 This R scripts allows you to query the Skyscanner API for several destinations and a custom range of dates and presents the results on the form of a .csv file ready to be used on any visualisation tools or imported to Excel or Google Docs.
 
 
-## - Potential users:
+## - Potential uses:
 
 The idea behind the script is presenting at once the cheapest possible fare for a certain segment on a certain date, saving us a lot of single searches. Could be specially useful in certain cases:
 
