@@ -16,9 +16,9 @@ The idea behind the script is presenting at once the cheapest possible fare for 
  
 - We are certain about our origin and destination, but we are very flexible about dates and would like to check the rates for a certain period in order to decide when to fly.
  
-- Our origin or destination could be server by different airports and we would like to check which one has the most convenient flights.
+- Our origin or destination could be served by different airports and we would like to check which one has the most convenient fares.
 
-- We need to flight to a small destination served from few origins and not daily and would like to know when and where would be the best option for a connection.
+- We need to flight to a small destination served not daily and from few origins and would like to know when and where would be the best option for a connection.
 
 - Can also be used as a basis for creating basic flight search engines for personal or commercial uses.
 
